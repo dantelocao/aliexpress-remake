@@ -9,30 +9,30 @@ const carousels = [
     title: "Combo de ofertas",
     description: "Ofertas imperdíveis para gadgets e tecnologia.",
     items: [
-      { img: "/img/1.jpg", title: "PC Gamer", price: "R$ 99,90" },
-      { img: "/img/2.jpg", title: "Kit Gamer", price: "R$ 149,90" },
-      { img: "/img/3.jpg", title: "Geladeira", price: "R$ 199,90" },
-      { img: "/img/4.jpg", title: "Controle Xbox", price: "R$ 79,90" }
+      { img: "img/1.jpg", title: "PC Gamer", price: "R$ 99,90" },
+      { img: "img/2.jpg", title: "Kit Gamer", price: "R$ 149,90" },
+      { img: "img/3.jpg", title: "Geladeira", price: "R$ 199,90" },
+      { img: "img/4.jpg", title: "Controle Xbox", price: "R$ 79,90" }
     ]
   },
   {
     title: "SuperOfertas",
     description: "Descontos especiais em SuperOfertas.",
     items: [
-      { img: "/img/5.jpg", title: "Apple Watch", price: "R$ 129,90" },
-      { img: "/img/6.jpg", title: "Controles PS4", price: "R$ 189,90" },
-      { img: "/img/7.jpg", title: "Drone", price: "R$ 219,90" },
-      { img: "/img/8.jpg", title: "Headset", price: "R$ 89,90" }
+      { img: "img/5.jpg", title: "Apple Watch", price: "R$ 129,90" },
+      { img: "img/6.jpg", title: "Controles PS4", price: "R$ 189,90" },
+      { img: "img/7.jpg", title: "Drone", price: "R$ 219,90" },
+      { img: "img/8.jpg", title: "Headset", price: "R$ 89,90" }
     ]
   },
   {
     title: "BigSave",
     description: "Economize seu dinheiro com o BigSave.",
     items: [
-      { img: "/img/9.jpg", title: "Placa-mãe", price: "R$ 109,90" },
-      { img: "/img/10.jpg", title: "Lava-louças", price: "R$ 159,90" },
-      { img: "/img/11.jpg", title: "Geladeira Tech", price: "R$ 239,90" },
-      { img: "/img/12.jpg", title: "Geladeira", price: "R$ 99,90" }
+      { img: "img/9.jpg", title: "Placa-mãe", price: "R$ 109,90" },
+      { img: "img/10.jpg", title: "Lava-louças", price: "R$ 159,90" },
+      { img: "img/11.jpg", title: "Geladeira Tech", price: "R$ 239,90" },
+      { img: "img/12.jpg", title: "Geladeira", price: "R$ 99,90" }
     ]
   }
 ];
