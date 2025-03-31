@@ -44,25 +44,25 @@ const Footer = () => {
             <h3 className="font-bold text-lg text-black mb-4">Pagar com</h3>
                 <ul className="flex space-x-3">
                     <li>
-                    <img src="/img/pag2.png" alt="Forma de Pagamento 2" className="w-16 h-auto" />
+                    <img src="img/pag2.png" alt="Forma de Pagamento 2" className="w-16 h-auto" />
                     </li>
                     <li>
-                    <img src="/img/pag3.png" alt="Forma de Pagamento 3" className="w-16 h-auto" />
+                    <img src="img/pag3.png" alt="Forma de Pagamento 3" className="w-16 h-auto" />
                     </li>
                     <li>
-                    <img src="/img/pag4.png" alt="Forma de Pagamento 4" className="w-16 h-auto" />
+                    <img src="img/pag4.png" alt="Forma de Pagamento 4" className="w-16 h-auto" />
                     </li>
                     <li>
-                    <img src="/img/pag5.png" alt="Forma de Pagamento 5" className="w-16 h-auto" />
+                    <img src="img/pag5.png" alt="Forma de Pagamento 5" className="w-16 h-auto" />
                     </li>
                     <li>
-                    <img src="/img/pag6.png" alt="Forma de Pagamento 6" className="w-16 h-auto" />
+                    <img src="img/pag6.png" alt="Forma de Pagamento 6" className="w-16 h-auto" />
                     </li>
                     <li>
-                    <img src="/img/pag7.png" alt="Forma de Pagamento 7" className="w-16 h-auto" />
+                    <img src="img/pag7.png" alt="Forma de Pagamento 7" className="w-16 h-auto" />
                     </li>
                     <li>
-                    <img src="/img/pag8.png" alt="Forma de Pagamento 8" className="w-16 h-auto" />
+                    <img src="img/pag8.png" alt="Forma de Pagamento 8" className="w-16 h-auto" />
                     </li>
             </ul>
         </div>

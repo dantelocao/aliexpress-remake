@@ -6,10 +6,10 @@ import { FaChevronLeft, FaChevronRight } from "react-icons/fa";
 
 const carousels = [
   [
-    { img: "/img/1.jpg", title: "PC Gamer", price: "R$ 99,90" },
-    { img: "/img/2.jpg", title: "Kit Gamer", price: "R$ 149,90" },
-    { img: "/img/3.jpg", title: "Geladeira", price: "R$ 199,90" },
-    { img: "/img/4.jpg", title: "Controle Xbox", price: "R$ 79,90" }
+    { img: "img/1.jpg", title: "PC Gamer", price: "R$ 99,90" },
+    { img: "img/2.jpg", title: "Kit Gamer", price: "R$ 149,90" },
+    { img: "img/3.jpg", title: "Geladeira", price: "R$ 199,90" },
+    { img: "img/4.jpg", title: "Controle Xbox", price: "R$ 79,90" }
   ]
 ];
 
